@@ -1,9 +1,14 @@
-# api documentation for  [fuck-you (v1.3.0)](https://github.com/robotlolita/fuck-you)  [![npm package](https://img.shields.io/npm/v/npmdoc-fuck-you.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fuck-you) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fuck-you.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fuck-you)
+# npmdoc-fuck-you
+
+#### api documentation for  [fuck-you (v1.3.0)](https://github.com/robotlolita/fuck-you)  [![npm package](https://img.shields.io/npm/v/npmdoc-fuck-you.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fuck-you) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fuck-you.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fuck-you)
+
 ####  (╯°□°）╯︵sǝssǝɔoɹd oʎ llɐ llıʞǝɓɐɹ
 
-[![NPM](https://nodei.co/npm/fuck-you.png?downloads=true)](https://www.npmjs.com/package/fuck-you)
+[![NPM](https://nodei.co/npm/fuck-you.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fuck-you)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-fuck-you/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-fuck-you_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-fuck-you/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-fuck-you/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-fuck-you/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-fuck-you/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-fuck-you/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-fuck-you/build/screenCapture.npmPackageListing.svg)
 
@@ -48,13 +53,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "killdream",
-            "email": "quildreen@gmail.com"
+            "name": "killdream"
         }
     ],
     "name": "fuck-you",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/robotlolita/fuck-you.git"
@@ -65,16 +68,6 @@
     "version": "1.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module fuck-you](#apidoc.module.fuck-you)
-
-
-
-# <a name="apidoc.module.fuck-you"></a>[module fuck-you](#apidoc.module.fuck-you)
 
 
 
