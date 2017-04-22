@@ -21,51 +21,36 @@
 ```json
 
 {
-    "author": {
-        "name": "Quildreen Motta"
-    },
+    "name": "fuck-you",
+    "version": "1.3.0",
+    "description": " (╯°□°）╯︵sǝssǝɔoɹd oʎ llɐ llıʞǝɓɐɹ",
+    "main": "index.js",
     "bin": {
         "fuck": "index.js"
     },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/robotlolita/fuck-you.git"
+    },
+    "keywords": [
+        "kill",
+        "processes"
+    ],
+    "author": "Quildreen Motta",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/robotlolita/fuck-you/issues"
     },
+    "homepage": "https://github.com/robotlolita/fuck-you",
     "dependencies": {
         "control.monads": "^0.6.0",
         "data.maybe": "^1.2.0",
         "data.task": "^3.0.0",
         "xps": "^1.0.0"
-    },
-    "description": " (╯°□°）╯︵sǝssǝɔoɹd oʎ llɐ llıʞǝɓɐɹ",
-    "devDependencies": {},
-    "directories": {},
-    "dist": {
-        "shasum": "882a22885709d1a4ab89578ed3063eff63dd1446",
-        "tarball": "https://registry.npmjs.org/fuck-you/-/fuck-you-1.3.0.tgz"
-    },
-    "gitHead": "be75480695c1b08669bd89ff468dfa47dc696651",
-    "homepage": "https://github.com/robotlolita/fuck-you",
-    "keywords": [
-        "kill",
-        "processes"
-    ],
-    "license": "MIT",
-    "main": "index.js",
-    "maintainers": [
-        {
-            "name": "killdream"
-        }
-    ],
-    "name": "fuck-you",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/robotlolita/fuck-you.git"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "version": "1.3.0"
+    }
 }
 ```
 
